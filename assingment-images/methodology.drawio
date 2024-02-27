@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-02-25T07:56:37.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="HIKR0RTJdYW5tRMNLC3K" version="23.1.6" type="device">
+  <diagram name="Page-1" id="hbqWXgsY56_eizQqjl8v">
+    <mxGraphModel dx="791" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vSe4klfKav-aQBtRMcPI-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Food Image dataset&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vSe4klfKav-aQBtRMcPI-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Image Processing&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vSe4klfKav-aQBtRMcPI-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="180" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vSe4klfKav-aQBtRMcPI-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="441" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="299" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vSe4klfKav-aQBtRMcPI-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Build Custom Model on top of pre-trained model&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vSe4klfKav-aQBtRMcPI-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="441" y="360" as="sourcePoint" />
+            <mxPoint x="440" y="389" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vSe4klfKav-aQBtRMcPI-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Predicting Food&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="480" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vSe4klfKav-aQBtRMcPI-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="441" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="479" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vSe4klfKav-aQBtRMcPI-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Validation and Testing&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="390" width="240" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
